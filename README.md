@@ -27,7 +27,7 @@ import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 
 
-# Esta función se encarga de obtener los datos de la traducción.
+<strong> Esta función se encarga de obtener los datos de la traducción.</strong>
 export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, './assets/i18n/', '.json');
 }
