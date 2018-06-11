@@ -74,5 +74,8 @@ constructor(
       this.splashScreen.hide();
     });
   }
+  
+  <hr>
+  Fuente de la información donde me he documentado sobre como hacer esto ha sido en <a href="https://blog.ng-classroom.com/blog/ionic2/ngx-translate/"> este blog </a>
  
  
