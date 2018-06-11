@@ -1,0 +1,7 @@
+{
+    "HELLO": "おはよう",
+    "WELCOME": "いらしゃいませ",
+    "GREETING": "おめでとう, {{ value }}",
+    "next": "行く",
+    "lenguage" : "Escoga idioma"
+  }

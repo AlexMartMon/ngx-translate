@@ -1,0 +1,7 @@
+{
+    "HELLO": "Hola",
+    "WELCOME": "Bienvenido",
+    "GREETING": "Hola, {{ value }}",
+    "next": "siguiente",
+    "lenguage" : "Escoga idioma"
+  }

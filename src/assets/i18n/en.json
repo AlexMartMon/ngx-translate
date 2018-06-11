@@ -1,0 +1,9 @@
+{
+    "HELLO": "Hello",
+    "WELCOME": "Welcome",
+    "GREETING": "Hi, {{ value }}",
+    "next": "next",
+    "lenguage" : "Choose a lenguage",
+    "redessociales": ["facebook","twitter","instagram"]
+  }
+  
